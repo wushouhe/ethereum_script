@@ -1,1 +1,3 @@
 db/geth/nodes/*
+db/geth/lightchaindata/*
+db/geth/chaindata/*
