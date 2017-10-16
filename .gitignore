@@ -2,3 +2,6 @@ db/geth/nodes/*
 db/geth/lightchaindata/*
 db/geth/chaindata/*
 db/history
+db/geth/transactions.rlp
+gethrun.log
+
